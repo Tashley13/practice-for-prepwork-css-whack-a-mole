@@ -6,6 +6,7 @@
   position: relative;
   width: 482;
   overflow: hidden;
+
 }
 
 .wgs_mole-head {
@@ -25,8 +26,11 @@
 .wgs_mole-head--hidden {
   position: absolute;
   margin-top: 640px;
+  transition-property: margin-top 0.25s;
 
 }
+
+
 
 
 
