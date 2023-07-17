@@ -1,6 +1,36 @@
 /* Your code here */
 
 
+.wgs {
+  height: 640px;
+  position: relative;
+  width: 482;
+  overflow: hidden;
+}
+
+.wgs_mole-head {
+  height: 376px;
+  position: absolute;
+  width: 356px;
+  left: 107px;
+}
+
+.wgs_hill-pile {
+  height: 220px;
+  position: absolute;
+  width: 640px;
+  top: 258px;
+}
+
+.wgs_mole-head--hidden {
+  position: absolute;
+  margin-top: 640px;
+
+}
+
+
+
+
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 /* .sb {
