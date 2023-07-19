@@ -58,4 +58,6 @@ window.addEventListener('DOMContentLoaded', () => {
       // event.target.classList.add('wgs__mole-head--whacked');
     });
   }
+
+
 });
